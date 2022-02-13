@@ -1,6 +1,6 @@
 ## Hello, i am Bernardo Mafra. Welcome to my profile! 🚀
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/bernardomafra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bernardomafra&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardomafra&layout=compact&langs_count=6&theme=github_dark"/>
 </div>
